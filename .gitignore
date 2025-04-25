@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+__pycache__/
+*.pyc
+
+# Base vectorial
+chroma_db/
+
+# Logs
+logs_chat.jsonl
+
+# Archivos temporales de Streamlit
+.streamlit/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
