@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+chromadb
+ollama
+PyMuPDF         # Para leer PDF
+python-docx     # Para leer DOCX
+torch==2.1.0
