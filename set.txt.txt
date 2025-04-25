@@ -1,0 +1,44 @@
+SETUP DEL PROYECTO CHATBOT MEC
+
+1. Requisitos
+-------------
+- Python 3.10 o superior
+- Pip actualizado
+- Ollama instalado y corriendo en segundo plano (https://ollama.com/download)
+
+2. Crear entorno virtual
+------------------------
+Windows:
+> python -m venv .venv
+> .\.venv\Scripts\activate
+
+Linux/macOS:
+$ python3 -m venv .venv
+$ source .venv/bin/activate
+
+3. Instalar dependencias
+------------------------
+> pip install -r requirements.txt
+
+4. Iniciar Ollama
+-----------------
+> ollama serve
+> ollama pull llama3:2.1b
+
+5. Ejecutar la app
+------------------
+> streamlit run app.py
+
+6. Interfaz
+-----------
+- Carga de archivos (.json, .pdf, .docx)
+- Historial de interacción
+- Feedback 👍 / 👎
+- Visualización de logs
+- Modo debug (ver fragmentos y contexto en uso)
+
+7. Archivos importantes
+-----------------------
+- contexto.json → base de conocimiento
+- logs_chat.jsonl → historial
+- chroma_db/ → base de datos vectorial
