@@ -1,0 +1,45 @@
+[
+    {
+        "url":"https://intranet.mecon.gob.ar/tramites/rrhh/asignaciones-familiares/",
+        "titulo":"Asignaciones Familiares",
+        "contenido":"Normativas: Ley 24.714, normas complementarias y modificatorias\nCondición General para el cobro de todas las asignaciones:\nPara el cobro de la prestación es necesario contar con la información del titular y su grupo familiar registrada en las bases de ANSES. Podés verificarlo en “Mi ANSES”, opción Información Personal o llamando al 130.\nMi ANSES es una plataforma digital que permite realizar diferentes trámites y consultas personales. Se ingresa con Clave de la Seguridad Social, que se puede obtener desde la página misma (www.anses.gov.ar).\nLos ingresos, tanto el individual como el del grupo familiar (IGF), deben estar dentro del tope máximo vigente. La percepción de ingresos de un importe superior al tope por parte de uno de los integrantes del grupo familiar, excluye el cobro de asignaciones al grupo completo.\n  Excepción: en el caso de la Asignación por Hijo con Discapacidad no rigen topes de ingresos.\n  El ingreso incluye: remuneraciones en relación de dependencia, rentas de autónomos, monotributistas, servicio doméstico, haberes de jubilación y pensión, prestación por desempleo, planes sociales, y sumas de prestaciones contributivas y/o no contributivas. No se incluyen: horas extras, plus por zona desfavorable y aguinaldo\nLa percepción de ingresos de un importe superior al tope por parte de uno de los integrantes del grupo familiar, excluye el cobro de asignaciones al grupo completo.\nEl ingreso incluye: remuneraciones en relación de dependencia, rentas de autónomos, monotributistas, servicio doméstico, haberes de jubilación y pensión, prestación por desempleo, planes sociales, y sumas de prestaciones contributivas y/o no contributivas. No se incluyen: horas extras, plus por zona desfavorable y aguinaldo.\nMontos y topes vigentes descargar pdf\n  Documentación obligatoria a presentar en la Dirección General de Recursos Humanos:\nCuando se produzca un alta, baja o modificación respecto a tu grupo familiar deberás declararlo en el Sector Legajos, debiendo escanear la documentación que se menciona a continuación y generar un Informe Gráfico, cuyo número deberá comunicarse al correo electrónico legajos@mecon.gov.ar a fin de vincularlo en su Legajo:\nActa de matrimonio / Sentencia de Divorcio / Acta de convivencia.\nPartida de nacimiento de hijos y/o Sentencias de Adopción.\nDNI de hijos y cónyuge/conviviente en caso de corresponder.\nCUIL de hijos y progenitor.\n  Calendarios de pago:\nLos pagos los efectúa el ANSES directamente en la cuenta sueldo del agente según un calendario de pago teniendo en cuenta la terminación del DNI. Podrá visualizarlo a través de la página de ANSES: en la opción “FECHA Y LUGAR DE COBRO” o en la plataforma “MI ANSES”.\n  Información General:\nPara informarse por el régimen de Asignaciones Familiares podrá ingresar a la página web de ANSES(www.anses.gov.ar)",
+        "telefono":"48507",
+        "mail":"legajos@mecon.gob.ar",
+        "links":[{
+            "texto": "(www.anses.gov.ar)",
+            "url": "https://servicioscorp.anses.gob.ar/clavelogon/logon.aspx?system=mianses"
+        },
+        {
+            "texto": "asignaciones Junio 2021",
+            "url": "https://intranet.mecon.gob.ar/wp-content/uploads/2021/08/Montos_Asignaciones_Junio_2021.pdf"
+        },
+        {
+            "texto": "descargar pdf",
+            "url": "https://intranet.mecon.gob.ar/wp-content/uploads/2021/08/Montos_Asignaciones_Junio_2021.pdf"
+        },
+        {
+            "texto": "legajos@mecon.gov.a",
+            "url": "mailto:legajos@mecon.gob.ar"
+        },
+        {
+            "texto": "Matrimonio",
+            "url": "https://intranet.mecon.gob.ar/tramites/rrhh/asignaciones-familiares/matrimonio/"
+        },
+        {
+            "texto": "Nacimiento",
+            "url": "https://intranet.mecon.gob.ar/tramites/rrhh/asignaciones-familiares/nacimiento-adopcion/"
+        },
+        {
+            "texto": "Ayuda Escolar Anual",
+            "url": "https://intranet.mecon.gob.ar/tramites/rrhh/asignaciones-familiares/ayuda-escolar-anual/"
+        },
+        {
+            "texto": "Maternidad / Prenatal",
+            "url": "https://intranet.mecon.gob.ar/tramites/rrhh/asignaciones-familiares/maternidad-prenatal/"
+        },
+        {
+            "texto": "Hijo / Hijo con discapacidad",
+            "url": "https://intranet.mecon.gob.ar/tramites/rrhh/asignaciones-familiares/hijo-hijo-con-discapacidad/"
+        }]
+    }
+]
