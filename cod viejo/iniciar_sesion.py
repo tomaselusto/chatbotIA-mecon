@@ -11,7 +11,7 @@ import getpass
 def iniciar_sesion(url,ubicacion_driver):
     #usuario= input("usuario: ")
     usuario= "telusto_mecon"
-    contrasena="Amigus67!!"# Esto oculta la contraseña al escribirla
+    contrasena=""# Esto oculta la contraseña al escribirla
     #contrasena=getpass.getpass("contraseña: ")# Esto oculta la contraseña al escribirla
     driver= webdriver.Chrome()
     servicio = Service(ubicacion_driver)
@@ -40,3 +40,4 @@ def verificar_sesion(driver):
         print("Error al iniciar sesión")
         return False
     
+
